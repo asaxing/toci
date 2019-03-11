@@ -6,6 +6,7 @@ pipeline {
                 sh 'echo "ohh......................."'
                 sh 'echo "emmmmmmmmmmmmmm"'
                 sh 'echo "?????"'
+                sh 'echo "new branch"'
                 sh 'python --version'
             }
         }
