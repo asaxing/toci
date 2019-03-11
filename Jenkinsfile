@@ -7,6 +7,7 @@ pipeline {
                 sh 'echo "emmmmmmmmmmmmmm"'
                 sh 'echo "?????"'
                 sh 'echo "new branch"'
+                sh 'echo "hello jenkins"'
                 sh 'python --version'
             }
         }
