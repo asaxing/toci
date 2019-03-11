@@ -5,6 +5,7 @@ pipeline {
             steps {
                 sh 'echo "ohh......................."'
                 sh 'echo "emmmmmmmmmmmmmm"'
+                sh 'echo "?????"'
                 sh 'python --version'
             }
         }
